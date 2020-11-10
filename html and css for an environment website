@@ -98,5 +98,163 @@ Help you cut down on carbon emissions and electricity savings across the year.</
 </body>
 </html>
 
+CSS
+
+.image
+{
+	padding-top:20px;
+	background-image: url("../green.jpg") ;
+	width:1450px;
+	min-height:700px;
+}
+body{
+	background-color: white;
+}
+
+
+
+
+h2
+{
+	padding-top:0px;
+	top: 200px;
+	left: 500px;
+	width: 100%;
+	font-size: 50px;
+	color: black;
+	 background: white;
+    font-family: verdana;
+    font-weight: 400;
+    margin-top: 170px;
+
+}
+h4{
+	font-family: verdana;
+	margin-left: 20px;
+	margin-top: 40px;
+	font-size: 30px;
+
+}
+.logo-text{padding-bottom:20px;}
+.btn-info {
+  color: #fff;
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  padding-top: 20px;
+  color: white;
+  padding-bottom: 25px;
+}
+.topnav a{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 50px;
+  font-family: verdana;
+
+  }
+.header-logo
+{
+	font-size: 40px;
+	margin: 30px;
+}
+
+h3
+{
+	width: 100%;
+	font size: 50px;
+	padding: 20px;
+
+}
+li
+{
+	color: white;
+	font-family: serif;
+}
+
+}
+.half-width{width:50%;}
+.btn {
+	display: inline-block;
+	padding: 33px 52px 33px 52px;
+    color: #fff;
+    font-family: verdana;
+	font font-weight: lighter;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-radius: 100px;
+	background-color: black;
+	border-spacing: 150px;
+	transition: background-color 0.2s, border 0.2s, color 0.3s;
+
+
+}
+
+}
+
+}
+.closeCookieContent{
+	background-color: #3D9970;
+	display: inline-block;
+}
+ul{
+	color: black;
+}
+.Ronald
+{
+	display: inline-block;
+	padding: 33px 52px 33px 52px;
+    color: #fff;
+    font-family: verdana;
+	font font-weight: lighter;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-radius: 100px;
+	background-color: black;
+	border-spacing: 150px;
+	transition: background-color 0.2s, border 0.2s, color 0.2s;
+	margin-right: 100px;
+	margin-left: 70px;
+
+}
+
+.btn-full:hover{
+	background-color: #A9A9A9;
+}
+.Ronald:hover
+{
+	background-color: #A9A9A9;
+}
+
+.true{
+	background-color: white;
+	font-size: 30px;
+	color: green;
+	font-family: cursive;
+	margin-top: 30px;
+	padding: 20px;
+	color: green;
+	margin:30px;
+}
+.quote_text{
+	font-size: 40px;
+    font-family: Calibre,CalibreMedium,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.25;
+    color:  #6551ff;
+    background-color: black;
+    
+}
+
+
+
+
 
 
